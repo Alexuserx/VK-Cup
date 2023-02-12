@@ -2,7 +2,7 @@
 The repository contains 3rd place solution of VK-Cup 2022 qualification task
 
 ## Порядок выполнения ноутбуков в репозитории:
-- train_val_test_split.ipynb - разбиение исходного датасета в хронологическом порядка
+- train_val_test_split.ipynb - разбиение исходного датасета в хронологическом порядке
 - recommenders.ipynb - отбор кандидатов с помощью различных методов
 - merge_candidates.ipynb - скрипты для объединения кандидатов и признаков в один dataframe
 - features.ipynb - построение признаков
