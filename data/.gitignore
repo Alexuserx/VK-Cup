@@ -5,3 +5,7 @@
 *.gzip
 *.parquet
 *.parquet.gzip
+!./candidates
+!./features
+!./splits
+!./submissions

@@ -5,3 +5,7 @@
 *.gzip
 *.parquet
 *.parquet.gzip
+!./als
+!./bm25
+!./content
+!./lgb
